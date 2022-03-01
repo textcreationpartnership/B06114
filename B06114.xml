@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Duke, upon his return from Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06114</idno>
+            <idno type="OCLC"> 12761813</idno>
+            <idno type="STC">Wing T1394</idno>
+            <idno type="STC">Interim Tract Supplement Guide 839.m.22[18]</idno>
+            <idno type="STC">ESTC R32808</idno>
+            <idno type="EEBO-CITATION">99889795</idno>
+            <idno type="PROQUEST">ocm99889795</idno>
+            <idno type="VID">181744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181744)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:2[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Duke, upon his return from Scotland.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:181744:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <head>TO THE DUKE, UPON HIS <hi>Return from Scotland.</hi>
+            </head>
+            <lg>
+               <l>SO the fair Light once baniſh'd, does Return</l>
+               <l>When with new Brightneſs crown'd, the Day is born.</l>
+               <l>Though all the time that diſappears, we might</l>
+               <l>Much better ſay, We Vaniſht are from Light.</l>
+               <l>For that ſtill Guides the Day, when it is here,</l>
+               <l>And flies, but to extend the Day elſewhere.</l>
+               <l>As You, whom our poor Iſle cannot confine,</l>
+               <l>More than the Sun can in one Country ſhine;</l>
+               <l>For the ſame Cauſe can never Baniſh't be,</l>
+               <l>Contain'd in no One Land, no more than He.</l>
+               <l>Ev'n he, deſcending from his ſhining Height</l>
+               <l>With us, does Riſe in other Lands, as Bright.</l>
+               <l>And ſeeming to Go Down, to This Worlds view,</l>
+               <l>Retires, but is not Baniſh't to the New.</l>
+               <l>So You, no leſs than he, a Starr too Great</l>
+               <l>To Riſe for ever in One Place, or Set.</l>
+               <l>In Sphere too Noble, and of Make too Pure,</l>
+               <l>For envious Miſts for ever to Obſcure.</l>
+               <l>If ought e're ſeem'd to intercept Your Light,</l>
+               <l>The Clouds ne're darken'd You, but hid our Sight.</l>
+               <pb n="2" facs="tcp:181744:2"/>
+               <!-- PDF PAGE 35 -->
+               <l>Like Heav'ns fair Ruler of the Day, as high</l>
+               <l>Above all Clouds, as They above our Eye.</l>
+               <l>Nor leſs than He, a Royal Planet ſeem,</l>
+               <l>Born to Divided Empire too, like Him;</l>
+               <l>Your Hemiſpheres in which You ſhine, have too</l>
+               <l>Your Brother's Antient Empire, and his New.</l>
+               <l>The Empire of his Race, which gave the Chair</l>
+               <l>In which our Kings when Crown'd, now ſeated are.</l>
+               <l>Ev'n ſo long ſince ſome Promiſe ſeem'd to give,</l>
+               <l>That thence in time, we might our Kings derive:</l>
+               <l>Gives us in You, a ſure Support alone,</l>
+               <l>Both of the <hi>Scottiſh</hi> Chair, and <hi>Engliſh</hi> Throne.</l>
+               <l>Well did the <hi>ROYAL MARTYR</hi> e're he fell,</l>
+               <l>To bind Succeſſion, ſhew his lateſt Zeal.</l>
+               <l>When Kiſſing GLOC'STER, he forbad all Claims</l>
+               <l>To <hi>CHARLES</hi> his Scepter, and the Sword of <hi>JAMES.</hi>
+               </l>
+               <l>Be CHARLES his Scepter ever Sacred ſtill,</l>
+               <l>And be the Sword of <hi>JAMES,</hi> Invincible.</l>
+               <l>May the Young KING to mount my Throne prevail,</l>
+               <l>May th' <hi>ADMIRAL</hi> in Battel never fail.</l>
+               <l>Revolted Cities bend to th' PRINCES Yoke,</l>
+               <l>While Fleets and Armies wait upon the DUKE.</l>
+               <l>His Lot to Shine upon the Land, and be</l>
+               <l>The Other'd ſtill, to Thunder on the Sea.</l>
+               <l>All this and more, Kind Heaven underſtood</l>
+               <l>Couch't in your Speechleſs Father's Voice of Blood.</l>
+               <l>For Wounds have Mouths, which ſeem to gape and cry,</l>
+               <l>And in the Voice of Blood, was Prophecy.</l>
+               <l>Propitious Heav'n, the Martyrs Cry has heard,</l>
+               <l>A King's, and Martyr's Cry, deſerves Regard.</l>
+               <l>Much to his Vows, as the Event does ſhow,</l>
+               <l>For their Succeſs, the Royal Brothers owe.</l>
+               <l>Our Sov'reign much for his Return muſt own,</l>
+               <l>Meeting ith' Arms of Peace a Bloudleſs Crown.</l>
+               <l>Much You, maintaining to the Sea that Right</l>
+               <l>He o're the Land had gain'd, without a Fight.</l>
+               <l>For what, alas! had it avail'd to boaſt</l>
+               <l>His Scepter gain'd, had yet his Flagg been loſt?</l>
+               <l>And what a Maimed Monarch needs moſt be</l>
+               <l>An Iſland-King, who is not Lord at Sea.</l>
+               <pb n="3" facs="tcp:181744:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 35 -->
+               <l>In his Return, Heaven no Hands did need,</l>
+               <l>Reſerving that for its peculiar Deed,</l>
+               <l>Its Act entire, as ſeeming to declare</l>
+               <l>None in the Honour of that Work ſhould ſhare.</l>
+               <l>That Kings may know, on whom they muſt depend,</l>
+               <l>Whoſe Gift are Crowns, and whence they do deſcend.</l>
+               <l>And we due Rev'rence to our Kings may learn,</l>
+               <l>Reſtor'd divinely, as divinely Born.</l>
+               <l>This Heav'n perform'd, but left it to your Sword</l>
+               <l>To Guard thoſe Rights, to which he was Reſtor'd.</l>
+               <l>Keeping in ſtore this Honour as Your Due,</l>
+               <l>What it began, ſhould finiſh't be by You.</l>
+               <l>And teaching us, where Human Hands there need.</l>
+               <l>To what a kind of Choice, it does proceed.</l>
+               <l>When ſuiting Inſtruments to Ends, it drawes</l>
+               <l>The brighteſt Sword ſtill in the Braveſt Cauſe,</l>
+               <l>Appointing, and then Arming You for Fight,</l>
+               <l>Who to the Seas Command, by Birth had Right.</l>
+               <l>Led by juſt Titles to as juſt a Warr,</l>
+               <l>To reap thoſe Honours, in which none could ſhare.</l>
+               <l>With double Courage arm'd, You then did ſhew</l>
+               <l>What a Great Leader and Good Cauſe could Do.</l>
+               <l>What the Kings juſt Rights could at once require,</l>
+               <l>Or we from th'Hopes of your High Birth deſire.</l>
+               <l>When you the winged Hoſt to Battel led,</l>
+               <l>And in your Flying Chariot 'fore them rid,</l>
+               <l>Bearing your Brother's Thunder by your Side,</l>
+               <l>And waving high his Flagg, with lofty Pride.</l>
+               <l>This High, th'Enſign of his wrong'd Pow'r to ſhow,</l>
+               <l>While that His Vengeance loudly ſpeaks, Below.</l>
+               <l>Soon as the Sov'reign of the Seas did roar,</l>
+               <l>Proſtrate they fell, who could not Bow before.</l>
+               <l>They knew his Voice, and to his Flagg ſubmit;</l>
+               <l>His Thunder own, and Him that carried it.</l>
+               <l>Tall Ships that with their Flaggs erect did ride,</l>
+               <l>Hide in the Seas, the Trophies of their Pride.</l>
+               <l>Low as the Deep, their humbled Top-ſails bend,</l>
+               <l>And wide as that, their Ruins do extend.</l>
+               <l>Such was the Fight, as did the World convince,</l>
+               <l>None but You were Born for the Crowns Defence.</l>
+               <pb n="4" facs="tcp:181744:3"/>
+               <!-- PDF PAGE 36 -->
+               <l>And tho it were not Your High Charge by Birth,</l>
+               <l>Your Merit, to that Place had call'd You forth.</l>
+               <l>While You at once deſervedly unite</l>
+               <l>The greateſt Merit, and the higheſt Right.</l>
+               <l>What vaſt unbounded Hopes may we conceive,</l>
+               <l>Who under ſuch a Pair of Brothers live?</l>
+               <l>Happy! beneath this fair Conjunction born,</l>
+               <l>Where both their Province nobly do adorn,</l>
+               <l>And each ſo Worthy is, Great <hi>CHARLES</hi> to Reign,</l>
+               <l>And YORK, to Triumph o're the Conquer'd Main.</l>
+               <l>A better KING than He, no Land e're knew;</l>
+               <l>
+                  <hi>No Seas,</hi> a Braver <hi>ADMIRAL,</hi> than You.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
